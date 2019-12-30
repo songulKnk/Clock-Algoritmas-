@@ -1,2 +1,2 @@
-# Clock-Algoritmas-
+# Clock-Algoritmasi-
 Buffer Yönetimi, Clock Algoritması 
